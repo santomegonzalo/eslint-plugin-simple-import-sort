@@ -1,3 +1,5 @@
+Forked from: https://github.com/lydell/eslint-plugin-simple-import-sort
+
 # eslint-plugin-simple-import-sort [![Build Status][travis-badge]][travis-link]
 
 Easy autofixable import sorting.
